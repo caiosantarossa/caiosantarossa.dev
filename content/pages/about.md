@@ -4,10 +4,10 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+With more than 10 years experience in software development, I have strong experience in the construction of applications using Java and Javascript languages, besides different tools like: Kafka, Redis, ElasticSearch, MongoDB, PostgreSQL, MySQL, Oracle, Docker, Kubernetes, AWS and Google Cloud.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![Talk at The Developers Conference in Florianópolis / Brazil, 2019.](/caiosantarossa-tdc-floripa.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+*Talk at The Developers Conference in Florianópolis / Brazil, 2019.*
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+The most part of my career I worked building one API management platform that supports millions de requests/day, I had opportunity to use great technologies like microservices, distributed processing, async communication, distributed cache, distributed tracing, Restful APIs, Swagger, NodeJS, Angular and ReactJS.
